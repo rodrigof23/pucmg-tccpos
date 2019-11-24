@@ -17,7 +17,9 @@ public class AppConfig extends CachingConfigurerSupport implements WebMvcConfigu
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
         registry.addInterceptor(customInterceptor)
-        	.excludePathPatterns("/usuario/autenticar");
+        	.addPathPatterns("/usuario/autorizar")
+        	.addPathPatterns("/produto/listar")
+        	.addPathPatterns("/pedido/cadastrar");
     }
 
 }
