@@ -1,0 +1,31 @@
+{
+  "produtos": [{
+    "nrCodigo": 1,
+    "nmNome": "ZenFone 6",
+    "dsDescricao": "Smartphone Asus ZenFone 6, 6GB de ram, 64GB de memória interna, Bateria de 5000mha, Câmera dupla 32mpx.",
+    "nrValor": 2999.99,
+    "urlImagem": "https://d36djlzg0xu24k.cloudfront.net/media/catalog/product/cache/5c7c9b729f525803c1f7a68d97a547be/Z/S/ZS630KL-2J003EU.jpg",
+	"nmFornecedor": "Asus"
+  }, {
+    "nrCodigo": 2,
+    "nmNome": "Iphone 11 Pro",
+    "dsDescricao": "Smartphone Apple Iphone 11 Pro, 64GB de memória interna, Tela de retina HD 6.5 polegadas, Câmera tripla, Resistente a Água.",
+    "nrValor": 6459.15,
+    "urlImagem": "https://ss7.vzw.com/is/image/VerizonWireless/Apple_iPhone_11_Pro_Midnight_Green_09102019_f?$png8alpha256$&hei=520",
+	"nmFornecedor": "Apple"
+  }, {
+    "nrCodigo": 3,
+    "nmNome": "Galaxy s10",
+    "dsDescricao": "Smartphone Samsung Galaxy s10, Dual Chip, Azul, Tela 6.1\", 4G + WiFi + NFC, Android 9.0, Câmera 12+16+12MP, 128GB.",
+    "nrValor": 3514.05,
+    "urlImagem": "https://www.efacil.com.br/wcsstore/ExtendedSitesCatalogAssetStore/Imagens/1000/3303049_01.jpg",
+	"nmFornecedor": "Samsung"
+  }, {
+    "nrCodigo": 4,
+    "nmNome": "Mi 9t",
+    "dsDescricao": "Xiaomi Mi 9t, 64gb, 48mpx, 6gb de Ram, Tela 6.39\", Versão Global, NFC, com Nota fiscal.",
+    "nrValor": 1774.34,
+    "urlImagem": "https://http2.mlstatic.com/xiaomi-mi-9t-64gb-48mpx-6gb-ram-tela-639-v-global-nfc-nf-D_NQ_NP_816425-MLB31526899833_072019-F.webp",
+	"nmFornecedor": "Xiaomi"
+  }]
+}

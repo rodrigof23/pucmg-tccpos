@@ -58,7 +58,7 @@ public class ProdutoController {
 	 */
 	@GetMapping(path = "/listar")
 	@ResponseBody
-	public Object listar() {
+	public Object listarProdutos() {
 		try {
 			return ResponseEntity.ok(this.produtoService.listarProdutos());
 		} catch (Exception e) {
