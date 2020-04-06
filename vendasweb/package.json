@@ -50,7 +50,7 @@
     "lodash": "^4.17.10",
     "mdi": "^2.2.43",
     "mdi-react": "^4.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "moment": "^2.22.2",
     "prop-types": "15.6.1",
     "rc-tooltip": "^3.7.3",
